@@ -1,4 +1,4 @@
 ### Oi! Sou o Felipe.
 
-- 🔭 Atualmente trabalhando com suporte e infra, querendo migrar para área de desenvolvimento back-end.
-- 🌱 Realizando o curso de Desenvolvedor Back-end.
+- 🔭 Atualmente trabalhando com suporte e infra.
+- 🌱 Realizando pós em Cloud Computing & Devops.
